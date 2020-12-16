@@ -7,7 +7,6 @@
     "id": "cordova-plugin-file",
     "platforms": [
       "android",
-      "browser",
       "ios",
       "osx",
       "windows"
